@@ -2,7 +2,7 @@ versioneer
 wheel
 cachetools==5.3.1
 constants==0.6.0
-contourpy==1.1.1
+contourpy==1.4.0
 einops==0.8.0
 graphviz==0.20.1
 imageio==2.31.5
